@@ -19,8 +19,6 @@ October 2019 had the highest number of registrations, while February and April 2
 Top ten stations for both ending and starting a journey are Grove St PATH and Hamilton Park.
 ![Top/Bottom Ten Stations](https://raw.githubusercontent.com/Christ1129/Citi_Bike_Analytics/main/Image/Popular%20station.png)
 
-## Map visualization for city officials
-![Station Maps](https://raw.githubusercontent.com/Christ1129/Citi_Bike_Analytics/main/Image/Map%20station.png)
 
 
 ### 3. Peak Hours
@@ -32,3 +30,6 @@ In summer, more people cycle in the evening than in the morning, but in winter, 
 
 ### 4. Trip Distance and Duration by Age
 In terms of distance and duration, it is clear that young people between the ages of 25 and 30 cover greater distances, while older people cover longer durations. We also see that people in their fifties are in the majority in terms of the number of registrations
+
+## Map visualization for city officials
+![Station Maps](https://raw.githubusercontent.com/Christ1129/Citi_Bike_Analytics/main/Image/Map%20station.png)
