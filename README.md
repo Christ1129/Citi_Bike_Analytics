@@ -17,7 +17,7 @@ October 2019 had the highest number of registrations, while February and April 2
 
 ### 2. Top/Bottom Ten Stations
 Top ten stations for both ending and starting a journey are Grove St PATH and Hamilton Park.
-![Top/Bottom Ten Stations]
+![Top/Bottom Ten Stations](https://github.com/Christ1129/Citi_Bike_Analytics/blob/main/Image/Popular%20station.png)
 
 
 
