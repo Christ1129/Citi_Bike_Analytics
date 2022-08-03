@@ -33,3 +33,9 @@ In terms of distance and duration, it is clear that young people between the age
 
 ## Map visualization for city officials
 ![Station Maps](https://raw.githubusercontent.com/Christ1129/Citi_Bike_Analytics/main/Image/Map%20station.png)
+
+<hr>
+Contact : 
+
+* tourteau.christian@gmail.com
+* https://www.linkedin.com/in/christian-tourteau/
